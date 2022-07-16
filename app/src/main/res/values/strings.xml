@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Resturant</string>
+    <string name="burger">Hamburger</string>
+    <string name="steak">       Steak     </string>
+    <string name="salad">Salad</string>
+    <string name="ice">   Ice Cream</string>
+    <string name="bug1">Chicken Burger</string>
+    <string name="bug2">Beef Burger</string>
+    <string name="bug3">Pork Burger</string>
+    <string name="bug4">Fish Burger</string>
+    <string name="bug5">No Meat Burger</string>
+
+</resources>
